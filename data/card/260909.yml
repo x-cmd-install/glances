@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.5.6"
   latestRelease: "v4.5.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:53:38Z
+  collectedAt: 2026-09-09T19:06:12Z
 timeline:
   created: 2011-12-04
   lastCommit: 2026-09-05
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-01
   lastPrerelease: 
 popularity:
-  star: 33546
+  star: 33549
   watcher: 498
   fork: 1803
   release: 61
   contributor: 230
-  pullRequest: 1180
+  pullRequest: 1184
   issue: 2224
 language:
   Python: 1679570
@@ -39,7 +39,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 31
-    openPR: 7
+    openPR: 11
     closedIssue: 6
     openIssue: 2
     commit: 50
@@ -47,7 +47,7 @@ recent:
     since: 2026-07-11
     release: 1
     mergedPR: 48
-    openPR: 10
+    openPR: 14
     closedIssue: 21
     openIssue: 6
     commit: 95
@@ -55,7 +55,7 @@ recent:
     since: 2026-06-11
     release: 2
     mergedPR: 49
-    openPR: 10
+    openPR: 14
     closedIssue: 28
     openIssue: 8
     commit: 108
@@ -63,7 +63,7 @@ recent:
     since: 2026-03-13
     release: 5
     mergedPR: 85
-    openPR: 12
+    openPR: 16
     closedIssue: 50
     openIssue: 12
     commit: 265
@@ -71,7 +71,7 @@ recent:
     since: 2025-09-14
     release: 10
     mergedPR: 111
-    openPR: 13
+    openPR: 17
     closedIssue: 134
     openIssue: 25
     commit: 639
@@ -79,20 +79,20 @@ recent:
     since: 2024-09-19
     release: 18
     mergedPR: 171
-    openPR: 15
+    openPR: 19
     closedIssue: 284
     openIssue: 48
     commit: 1507
 total:
   release: 61
   mergedPR: 859
-  openPR: 16
+  openPR: 20
   closedIssue: 2131
   openIssue: 93
   commit: 7360
 ---
 path: /home/runner/.x-repo/github.com/nicolargo/glances
-collectedAt: 2026-09-09T04:53:45Z
+collectedAt: 2026-09-09T19:06:19Z
 loc:
   Python:
     code: 32818
