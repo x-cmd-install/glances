@@ -7,7 +7,7 @@ Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS 
 - **Latest release**: `v4.5.6` (2026-08-01)
 - **Last commit**: 2026-09-05
 - **License**: NOASSERTION
-- **Stars**: 33542 · **Forks**: 1803 · **Open issues**: 2224 · **Contributors**: 230
+- **Stars**: 33546 · **Forks**: 1803 · **Open issues**: 2224 · **Contributors**: 230
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/glances> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:06:01Z._
+_Last regenerated: 2026-09-09T04:53:48Z._
