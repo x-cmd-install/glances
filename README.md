@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 42 | 1 | 6 | 2 | 66 |
-| last60d | 2026-07-12 | 1 | 59 | 4 | 21 | 6 | 111 |
-| 90d | 2026-06-12 | 2 | 60 | 4 | 28 | 8 | 124 |
-| last180d | 2026-03-14 | 5 | 96 | 6 | 49 | 12 | 281 |
-| 360d | 2025-09-15 | 10 | 122 | 7 | 134 | 24 | 655 |
-| last720d | 2024-09-20 | 18 | 182 | 9 | 284 | 48 | 1534 |
+| 30d | 2026-08-12 | 0 | 42 | 1 | 6 | 2 | 66 |
+| last60d | 2026-07-13 | 1 | 59 | 4 | 20 | 6 | 111 |
+| 90d | 2026-06-13 | 2 | 60 | 4 | 28 | 8 | 124 |
+| last180d | 2026-03-15 | 4 | 94 | 6 | 48 | 11 | 281 |
+| 360d | 2025-09-16 | 10 | 122 | 7 | 133 | 24 | 655 |
+| last720d | 2024-09-21 | 18 | 182 | 9 | 284 | 48 | 1534 |
 
 ## Distribution status
 
@@ -92,4 +92,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:02:35Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:59:34Z._
