@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,572 · **Forks**: 1,806 · **Open issues**: 2,225 · **Contributors**: 232
+- **Stars**: 33,578 · **Forks**: 1,809 · **Open issues**: 2,225 · **Contributors**: 232
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 875 · **Open PRs**: 10 · **Closed issues**: 2134 · **Open issues**: 91 · **Commits**: 7400
+- **Releases**: 61 · **Merged PRs**: 875 · **Open PRs**: 12 · **Closed issues**: 2134 · **Open issues**: 91 · **Commits**: 7400
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 44 | 1 | 6 | 1 | 68 |
-| last60d | 2026-07-16 | 1 | 63 | 3 | 22 | 5 | 114 |
-| 90d | 2026-06-16 | 1 | 65 | 4 | 27 | 5 | 131 |
-| last180d | 2026-03-18 | 4 | 98 | 6 | 50 | 9 | 277 |
-| 360d | 2025-09-19 | 10 | 127 | 7 | 136 | 21 | 648 |
-| last720d | 2024-09-24 | 18 | 186 | 9 | 287 | 46 | 1543 |
+| 30d | 2026-08-16 | 0 | 44 | 3 | 6 | 1 | 68 |
+| last60d | 2026-07-17 | 1 | 63 | 5 | 22 | 5 | 114 |
+| 90d | 2026-06-17 | 1 | 65 | 6 | 26 | 5 | 131 |
+| last180d | 2026-03-19 | 4 | 96 | 8 | 49 | 9 | 277 |
+| 360d | 2025-09-20 | 10 | 127 | 9 | 136 | 21 | 648 |
+| last720d | 2024-09-25 | 18 | 186 | 11 | 286 | 46 | 1543 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:11:21Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:14:19Z._
