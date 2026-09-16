@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,578 · **Forks**: 1,809 · **Open issues**: 2,225 · **Contributors**: 232
+- **Stars**: 33,581 · **Forks**: 1,809 · **Open issues**: 2,225 · **Contributors**: 232
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 44 | 3 | 6 | 1 | 68 |
-| last60d | 2026-07-17 | 1 | 63 | 5 | 22 | 5 | 114 |
-| 90d | 2026-06-17 | 1 | 65 | 6 | 26 | 5 | 131 |
-| last180d | 2026-03-19 | 4 | 96 | 8 | 49 | 9 | 277 |
-| 360d | 2025-09-20 | 10 | 127 | 9 | 136 | 21 | 648 |
-| last720d | 2024-09-25 | 18 | 186 | 11 | 286 | 46 | 1543 |
+| 30d | 2026-08-17 | 0 | 44 | 3 | 6 | 1 | 68 |
+| last60d | 2026-07-18 | 1 | 63 | 5 | 22 | 5 | 114 |
+| 90d | 2026-06-18 | 1 | 65 | 6 | 26 | 5 | 131 |
+| last180d | 2026-03-20 | 4 | 96 | 8 | 49 | 9 | 277 |
+| 360d | 2025-09-21 | 10 | 127 | 9 | 136 | 21 | 648 |
+| last720d | 2024-09-26 | 18 | 186 | 11 | 286 | 46 | 1543 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:14:19Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:08:12Z._
