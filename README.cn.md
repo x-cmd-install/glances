@@ -26,13 +26,13 @@ x install glances
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6 / 10**
+总评分: **6.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
 - **Security-Policy** (4/10) — security policy file detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install glances
 
 ## 流行度
 
-- **Star**: 33,581 · **Fork**: 1,809 · **开放 issue**: 2,225 · **贡献者**: 232
+- **Star**: 33,587 · **Fork**: 1,809 · **开放 issue**: 2,225 · **贡献者**: 232
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install glances
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 44 | 3 | 6 | 1 | 68 |
-| last60d | 2026-07-18 | 1 | 63 | 5 | 22 | 5 | 114 |
-| 90d | 2026-06-18 | 1 | 65 | 6 | 26 | 5 | 131 |
-| last180d | 2026-03-20 | 4 | 96 | 8 | 49 | 9 | 277 |
-| 360d | 2025-09-21 | 10 | 127 | 9 | 136 | 21 | 648 |
-| last720d | 2024-09-26 | 18 | 186 | 11 | 286 | 46 | 1543 |
+| 30d | 2026-08-18 | 0 | 44 | 3 | 4 | 1 | 68 |
+| last60d | 2026-07-19 | 1 | 63 | 5 | 22 | 5 | 114 |
+| 90d | 2026-06-19 | 1 | 65 | 6 | 26 | 5 | 131 |
+| last180d | 2026-03-21 | 4 | 96 | 8 | 49 | 9 | 277 |
+| 360d | 2025-09-22 | 10 | 127 | 9 | 136 | 21 | 648 |
+| last720d | 2024-09-27 | 18 | 186 | 11 | 286 | 46 | 1543 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ glances 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T05:08:13Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T05:08:40Z._
