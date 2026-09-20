@@ -4,7 +4,7 @@
 
 Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
-![glances](https://repo.x-cmd.io/glances.svg)
+[![x-cmd/install — glances Code Quality Monitoring Repo Card](https://repo.x-cmd.io/glances.svg)](https://x-cmd.com/install/glances)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install glances
 
 ## Code insight
 
-Total: **61,451** lines of code across **325** files in the top 5 languages.
+Total: **61,562** lines of code across **326** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 33,836 | 6,302 | 7,765 | 235 |
+| Python | 33,947 | 6,328 | 7,810 | 236 |
 | Json | 13,014 | 0 | 0 | 8 |
 | ReStructuredText | 9,345 | 0 | 3,027 | 69 |
 | Svg | 1,313 | 137 | 0 | 6 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.5.6` (2026-08-01)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 33,597 · **Forks**: 1,809 · **Open issues**: 2,225 · **Contributors**: 232
+- **Stars**: 33,621 · **Forks**: 1,810 · **Open issues**: 2,225 · **Contributors**: 234
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 875 · **Open PRs**: 12 · **Closed issues**: 2134 · **Open issues**: 91 · **Commits**: 7400
+- **Releases**: 61 · **Merged PRs**: 877 · **Open PRs**: 10 · **Closed issues**: 2134 · **Open issues**: 91 · **Commits**: 7405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 43 | 3 | 4 | 1 | 68 |
-| last60d | 2026-07-20 | 1 | 63 | 5 | 22 | 5 | 114 |
-| 90d | 2026-06-20 | 1 | 65 | 6 | 26 | 5 | 131 |
-| last180d | 2026-03-22 | 4 | 96 | 8 | 49 | 9 | 277 |
-| 360d | 2025-09-23 | 10 | 126 | 9 | 136 | 21 | 648 |
-| last720d | 2024-09-28 | 18 | 186 | 11 | 286 | 46 | 1543 |
+| 30d | 2026-08-21 | 0 | 44 | 1 | 4 | 1 | 71 |
+| last60d | 2026-07-22 | 1 | 64 | 3 | 21 | 5 | 117 |
+| 90d | 2026-06-22 | 1 | 67 | 4 | 26 | 5 | 134 |
+| last180d | 2026-03-24 | 4 | 96 | 6 | 48 | 9 | 280 |
+| 360d | 2025-09-25 | 10 | 124 | 7 | 135 | 21 | 651 |
+| last720d | 2024-09-30 | 18 | 188 | 9 | 286 | 46 | 1546 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:03:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:11:22Z._
