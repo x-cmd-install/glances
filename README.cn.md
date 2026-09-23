@@ -4,7 +4,7 @@
 
 Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
-[![x-cmd/install — glances Code Quality Monitoring Repo Card](https://repo.x-cmd.io/glances.svg?lang=zh)](https://x-cmd.com/install/glances)
+[![x-cmd/install — glances Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/glances.svg?lang=zh)](https://x-cmd.com/install/glances)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install glances
 
 ## 流行度
 
-- **Star**: 33,644 · **Fork**: 1,812 · **开放 issue**: 2,225 · **贡献者**: 234
+- **Star**: 33,656 · **Fork**: 1,818 · **开放 issue**: 2,225 · **贡献者**: 234
 
 ## 累计统计
 
-- **发布数**: 61 · **已合并 PR**: 877 · **开放 PR**: 13 · **已关闭 issue**: 2134 · **开放 issue**: 91 · **提交数**: 7405
+- **发布数**: 61 · **已合并 PR**: 877 · **开放 PR**: 15 · **已关闭 issue**: 2134 · **开放 issue**: 91 · **提交数**: 7405
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 44 | 4 | 3 | 1 | 42 |
-| last60d | 2026-07-24 | 1 | 63 | 5 | 20 | 5 | 112 |
-| 90d | 2026-06-24 | 1 | 67 | 7 | 26 | 5 | 133 |
-| last180d | 2026-03-26 | 4 | 92 | 9 | 47 | 9 | 256 |
-| 360d | 2025-09-27 | 10 | 124 | 10 | 134 | 21 | 636 |
-| last720d | 2024-10-02 | 18 | 188 | 12 | 285 | 46 | 1546 |
+| 30d | 2026-08-24 | 0 | 39 | 6 | 3 | 1 | 42 |
+| last60d | 2026-07-25 | 1 | 62 | 7 | 20 | 4 | 112 |
+| 90d | 2026-06-25 | 1 | 67 | 9 | 25 | 5 | 133 |
+| last180d | 2026-03-27 | 4 | 92 | 11 | 47 | 9 | 256 |
+| 360d | 2025-09-28 | 10 | 123 | 12 | 133 | 21 | 636 |
+| last720d | 2024-10-03 | 18 | 188 | 14 | 285 | 46 | 1545 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ glances 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:15:09Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:08:01Z._

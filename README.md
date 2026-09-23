@@ -4,7 +4,7 @@
 
 Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
-[![x-cmd/install — glances Code Quality Monitoring Repo Card](https://repo.x-cmd.io/glances.svg)](https://x-cmd.com/install/glances)
+[![x-cmd/install — glances Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/glances.svg)](https://x-cmd.com/install/glances)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,644 · **Forks**: 1,812 · **Open issues**: 2,225 · **Contributors**: 234
+- **Stars**: 33,656 · **Forks**: 1,818 · **Open issues**: 2,225 · **Contributors**: 234
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 877 · **Open PRs**: 13 · **Closed issues**: 2134 · **Open issues**: 91 · **Commits**: 7405
+- **Releases**: 61 · **Merged PRs**: 877 · **Open PRs**: 15 · **Closed issues**: 2134 · **Open issues**: 91 · **Commits**: 7405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 44 | 4 | 3 | 1 | 42 |
-| last60d | 2026-07-24 | 1 | 63 | 5 | 20 | 5 | 112 |
-| 90d | 2026-06-24 | 1 | 67 | 7 | 26 | 5 | 133 |
-| last180d | 2026-03-26 | 4 | 92 | 9 | 47 | 9 | 256 |
-| 360d | 2025-09-27 | 10 | 124 | 10 | 134 | 21 | 636 |
-| last720d | 2024-10-02 | 18 | 188 | 12 | 285 | 46 | 1546 |
+| 30d | 2026-08-24 | 0 | 39 | 6 | 3 | 1 | 42 |
+| last60d | 2026-07-25 | 1 | 62 | 7 | 20 | 4 | 112 |
+| 90d | 2026-06-25 | 1 | 67 | 9 | 25 | 5 | 133 |
+| last180d | 2026-03-27 | 4 | 92 | 11 | 47 | 9 | 256 |
+| 360d | 2025-09-28 | 10 | 123 | 12 | 133 | 21 | 636 |
+| last720d | 2024-10-03 | 18 | 188 | 14 | 285 | 46 | 1545 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:15:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:07:59Z._
