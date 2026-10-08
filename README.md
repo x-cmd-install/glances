@@ -26,13 +26,13 @@ Total: **62,238** lines of code across **334** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 9/21 approved changesets -- score normalized to 4
 - **Security-Policy** (4/10) — security policy file detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,742 · **Forks**: 1,821 · **Open issues**: 2,238 · **Contributors**: 240
+- **Stars**: 33,747 · **Forks**: 1,821 · **Open issues**: 2,238 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 895 · **Open PRs**: 17 · **Closed issues**: 2145 · **Open issues**: 93 · **Commits**: 7462
+- **Releases**: 62 · **Merged PRs**: 896 · **Open PRs**: 19 · **Closed issues**: 2145 · **Open issues**: 93 · **Commits**: 7462
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 32 | 7 | 11 | 3 | 34 |
-| last60d | 2026-08-08 | 1 | 68 | 8 | 20 | 5 | 102 |
-| 90d | 2026-07-09 | 2 | 84 | 11 | 34 | 7 | 147 |
-| last180d | 2026-04-10 | 4 | 102 | 13 | 55 | 11 | 257 |
-| 360d | 2025-10-12 | 10 | 141 | 14 | 136 | 22 | 639 |
-| last720d | 2024-10-17 | 19 | 199 | 16 | 292 | 48 | 1573 |
+| 30d | 2026-09-08 | 1 | 31 | 9 | 11 | 3 | 34 |
+| last60d | 2026-08-09 | 1 | 69 | 10 | 20 | 4 | 102 |
+| 90d | 2026-07-10 | 2 | 85 | 13 | 34 | 7 | 147 |
+| last180d | 2026-04-11 | 4 | 103 | 15 | 55 | 11 | 257 |
+| 360d | 2025-10-13 | 10 | 142 | 16 | 136 | 22 | 639 |
+| last720d | 2024-10-18 | 19 | 200 | 18 | 292 | 48 | 1573 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:03:26Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:14:10Z._
