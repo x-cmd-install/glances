@@ -14,11 +14,11 @@ x install glances
 
 ## Code insight
 
-Total: **62,266** lines of code across **335** files in the top 5 languages.
+Total: **62,348** lines of code across **338** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 34,563 | 6,382 | 7,988 | 245 |
+| Python | 34,645 | 6,396 | 8,024 | 248 |
 | Json | 13,014 | 0 | 0 | 8 |
 | ReStructuredText | 9,433 | 0 | 3,038 | 69 |
 | Svg | 1,313 | 137 | 0 | 6 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.5.7` (2026-09-26)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-10
 
 ## Popularity
 
-- **Stars**: 33,754 · **Forks**: 1,823 · **Open issues**: 2,238 · **Contributors**: 241
+- **Stars**: 33,759 · **Forks**: 1,823 · **Open issues**: 2,239 · **Contributors**: 243
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 897 · **Open PRs**: 18 · **Closed issues**: 2145 · **Open issues**: 93 · **Commits**: 7464
+- **Releases**: 62 · **Merged PRs**: 901 · **Open PRs**: 15 · **Closed issues**: 2147 · **Open issues**: 92 · **Commits**: 7473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 1 | 27 | 8 | 11 | 3 | 35 |
-| last60d | 2026-08-11 | 1 | 69 | 9 | 18 | 4 | 103 |
-| 90d | 2026-07-12 | 2 | 86 | 12 | 34 | 7 | 148 |
-| last180d | 2026-04-13 | 4 | 104 | 14 | 54 | 11 | 258 |
-| 360d | 2025-10-15 | 10 | 142 | 15 | 136 | 22 | 640 |
-| last720d | 2024-10-20 | 19 | 200 | 17 | 288 | 48 | 1563 |
+| 30d | 2026-09-11 | 1 | 29 | 5 | 13 | 2 | 40 |
+| last60d | 2026-08-12 | 1 | 73 | 6 | 20 | 3 | 108 |
+| 90d | 2026-07-13 | 2 | 90 | 9 | 35 | 6 | 153 |
+| last180d | 2026-04-14 | 4 | 108 | 11 | 55 | 10 | 263 |
+| 360d | 2025-10-16 | 10 | 146 | 12 | 137 | 21 | 645 |
+| last720d | 2024-10-21 | 18 | 203 | 14 | 290 | 47 | 1564 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:58:38Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:58:09Z._
