@@ -14,24 +14,24 @@ x install glances
 
 ## Code insight
 
-Total: **103,490** lines of code across **541** files in the top 5 languages.
+Total: **114,300** lines of code across **541** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 69,726 | 8,667 | 17,556 | 405 |
-| ReStructuredText | 11,937 | 0 | 3,140 | 69 |
-| Json | 11,761 | 0 | 0 | 7 |
+| Python | 69,818 | 8,669 | 17,578 | 405 |
+| ReStructuredText | 22,635 | 0 | 3,143 | 69 |
+| Json | 11,780 | 0 | 0 | 7 |
 | JavaScript | 5,165 | 2,372 | 527 | 52 |
 | Svg | 1,417 | 154 | 28 | 8 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.7 / 10**
+Overall score: **5.9 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
 - **Security-Policy** (4/10) — security policy file detected
-- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## Source
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.5.8` (2026-10-11)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
-- **Stars**: 33,818 · **Forks**: 1,835 · **Open issues**: 2,245 · **Contributors**: 245
+- **Stars**: 33,825 · **Forks**: 1,837 · **Open issues**: 2,246 · **Contributors**: 246
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 916 · **Open PRs**: 13 · **Closed issues**: 2148 · **Open issues**: 97 · **Commits**: 7955
+- **Releases**: 63 · **Merged PRs**: 918 · **Open PRs**: 12 · **Closed issues**: 2148 · **Open issues**: 98 · **Commits**: 7963
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 38 | 4 | 13 | 7 | 206 |
-| last60d | 2026-08-22 | 2 | 83 | 6 | 16 | 8 | 334 |
-| 90d | 2026-07-23 | 3 | 103 | 6 | 35 | 11 | 405 |
-| last180d | 2026-04-24 | 4 | 118 | 8 | 54 | 15 | 628 |
-| 360d | 2025-10-26 | 11 | 161 | 10 | 131 | 26 | 1007 |
-| last720d | 2024-10-31 | 19 | 217 | 12 | 284 | 51 | 2025 |
+| 30d | 2026-09-22 | 2 | 39 | 3 | 13 | 8 | 211 |
+| last60d | 2026-08-23 | 2 | 85 | 5 | 16 | 9 | 339 |
+| 90d | 2026-07-24 | 3 | 104 | 5 | 34 | 12 | 410 |
+| last180d | 2026-04-25 | 4 | 120 | 7 | 54 | 16 | 633 |
+| 360d | 2025-10-27 | 11 | 163 | 9 | 131 | 27 | 1012 |
+| last720d | 2024-11-01 | 19 | 218 | 11 | 284 | 52 | 2028 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:51:45Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:06Z._
