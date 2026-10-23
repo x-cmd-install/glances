@@ -47,22 +47,41 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,825 · **Forks**: 1,837 · **Open issues**: 2,246 · **Contributors**: 246
+- **Stars**: 33,829 · **Forks**: 1,838 · **Open issues**: 2,247 · **Contributors**: 246
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 918 · **Open PRs**: 12 · **Closed issues**: 2148 · **Open issues**: 98 · **Commits**: 7963
+- **Releases**: 63 · **Merged PRs**: 918 · **Open PRs**: 16 · **Closed issues**: 2148 · **Open issues**: 99 · **Commits**: 7963
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 39 | 3 | 13 | 8 | 211 |
-| last60d | 2026-08-23 | 2 | 85 | 5 | 16 | 9 | 339 |
-| 90d | 2026-07-24 | 3 | 104 | 5 | 34 | 12 | 410 |
-| last180d | 2026-04-25 | 4 | 120 | 7 | 54 | 16 | 633 |
-| 360d | 2025-10-27 | 11 | 163 | 9 | 131 | 27 | 1012 |
-| last720d | 2024-11-01 | 19 | 218 | 11 | 284 | 52 | 2028 |
+| 30d | 2026-09-23 | 2 | 39 | 7 | 13 | 9 | 211 |
+| last60d | 2026-08-24 | 2 | 80 | 9 | 16 | 10 | 339 |
+| 90d | 2026-07-25 | 3 | 103 | 9 | 34 | 12 | 410 |
+| last180d | 2026-04-26 | 4 | 120 | 11 | 54 | 17 | 633 |
+| 360d | 2025-10-28 | 11 | 163 | 13 | 131 | 28 | 1012 |
+| last720d | 2024-11-02 | 18 | 217 | 15 | 283 | 53 | 2014 |
+
+## Distribution status
+
+Reported by **129** distros on [repology.org](https://repology.org/project/glances). **9** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `4.5.7` | ⚠️ outdated |
+| Debian 14 | `4.5.7` | ⚠️ outdated |
+| Debian 13 | `4.3.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `4.3.3` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.4.0.3` | ⚠️ outdated |
+| Arch | `4.5.8` | ✅ latest |
+| Homebrew | `4.5.8` | ✅ latest |
+| Fedora rawhide | `4.5.7` | ⚠️ outdated |
+| Nix unstable | `4.5.7` | ⚠️ outdated |
+| Void | `4.5.6` | ⚠️ outdated |
+| Alpine edge | `4.5.7` | ⚠️ outdated |
+| openSUSE Tumbleweed | `4.5.6` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +92,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:06Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:56:17Z._
