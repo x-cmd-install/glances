@@ -47,30 +47,30 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,837 · **Forks**: 1,840 · **Open issues**: 2,248 · **Contributors**: 247
+- **Stars**: 33,844 · **Forks**: 1,838 · **Open issues**: 2,248 · **Contributors**: 247
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 922 · **Open PRs**: 16 · **Closed issues**: 2149 · **Open issues**: 99 · **Commits**: 8007
+- **Releases**: 63 · **Merged PRs**: 922 · **Open PRs**: 18 · **Closed issues**: 2149 · **Open issues**: 99 · **Commits**: 8007
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 43 | 7 | 14 | 9 | 247 |
-| last60d | 2026-08-25 | 2 | 78 | 9 | 17 | 10 | 375 |
-| 90d | 2026-07-26 | 3 | 107 | 9 | 35 | 12 | 446 |
-| last180d | 2026-04-27 | 4 | 123 | 11 | 55 | 17 | 669 |
-| 360d | 2025-10-29 | 11 | 167 | 13 | 132 | 28 | 1048 |
-| last720d | 2024-11-03 | 18 | 221 | 15 | 284 | 53 | 2054 |
+| 30d | 2026-09-25 | 2 | 41 | 9 | 13 | 9 | 247 |
+| last60d | 2026-08-26 | 2 | 72 | 11 | 17 | 10 | 375 |
+| 90d | 2026-07-27 | 3 | 106 | 11 | 34 | 12 | 446 |
+| last180d | 2026-04-28 | 4 | 123 | 13 | 55 | 17 | 669 |
+| 360d | 2025-10-30 | 11 | 167 | 15 | 132 | 28 | 1048 |
+| last720d | 2024-11-04 | 18 | 221 | 17 | 282 | 52 | 2052 |
 
 ## Distribution status
 
-Reported by **129** distros on [repology.org](https://repology.org/project/glances). **9** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+Reported by **129** distros on [repology.org](https://repology.org/project/glances). **11** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `4.5.7` | ⚠️ outdated |
+| Debian unstable | `4.5.8` | ✅ latest |
 | Debian 14 | `4.5.7` | ⚠️ outdated |
 | Debian 13 | `4.3.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `4.3.3` | ⚠️ outdated |
@@ -92,4 +92,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:44:44Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:48:16Z._
