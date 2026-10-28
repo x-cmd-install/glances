@@ -47,31 +47,31 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,854 · **Forks**: 1,839 · **Open issues**: 2,248 · **Contributors**: 249
+- **Stars**: 33,863 · **Forks**: 1,838 · **Open issues**: 2,249 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 927 · **Open PRs**: 15 · **Closed issues**: 2152 · **Open issues**: 96 · **Commits**: 8020
+- **Releases**: 63 · **Merged PRs**: 927 · **Open PRs**: 16 · **Closed issues**: 2152 · **Open issues**: 97 · **Commits**: 8020
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 36 | 6 | 8 | 5 | 178 |
-| last60d | 2026-08-28 | 2 | 70 | 8 | 20 | 7 | 347 |
-| 90d | 2026-07-29 | 3 | 110 | 8 | 34 | 9 | 439 |
-| last180d | 2026-04-30 | 4 | 126 | 10 | 58 | 14 | 643 |
-| 360d | 2025-11-01 | 11 | 172 | 12 | 134 | 24 | 1028 |
-| last720d | 2024-11-06 | 18 | 225 | 14 | 285 | 49 | 2064 |
+| 30d | 2026-09-28 | 1 | 35 | 7 | 7 | 6 | 178 |
+| last60d | 2026-08-29 | 2 | 69 | 9 | 20 | 8 | 347 |
+| 90d | 2026-07-30 | 3 | 109 | 9 | 34 | 10 | 439 |
+| last180d | 2026-05-01 | 4 | 126 | 11 | 57 | 15 | 643 |
+| 360d | 2025-11-02 | 11 | 172 | 13 | 133 | 25 | 1028 |
+| last720d | 2024-11-07 | 18 | 225 | 15 | 285 | 50 | 2060 |
 
 ## Distribution status
 
-Reported by **129** distros on [repology.org](https://repology.org/project/glances). **11** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
+Reported by **129** distros on [repology.org](https://repology.org/project/glances). **13** are ✅ on the latest upstream release, **88** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `4.5.8` | ✅ latest |
-| Debian 14 | `4.5.7` | ⚠️ outdated |
+| Debian 14 | `4.5.8` | ✅ latest |
 | Debian 13 | `4.3.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `4.3.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `3.4.0.3` | ⚠️ outdated |
@@ -92,4 +92,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:14:31Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:46:23Z._
