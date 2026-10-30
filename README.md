@@ -14,11 +14,11 @@ x install glances
 
 ## Code insight
 
-Total: **116,335** lines of code across **544** files in the top 5 languages.
+Total: **116,322** lines of code across **544** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 71,491 | 8,825 | 17,992 | 406 |
+| Python | 71,492 | 8,825 | 17,992 | 406 |
 | ReStructuredText | 22,763 | 0 | 3,148 | 69 |
 | Json | 11,773 | 0 | 0 | 6 |
 | JavaScript | 5,307 | 2,412 | 546 | 55 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.5.8` (2026-10-11)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 
 ## Popularity
 
-- **Stars**: 33,871 · **Forks**: 1,838 · **Open issues**: 2,249 · **Contributors**: 249
+- **Stars**: 33,874 · **Forks**: 1,838 · **Open issues**: 2,249 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 929 · **Open PRs**: 17 · **Closed issues**: 2152 · **Open issues**: 97 · **Commits**: 8026
+- **Releases**: 63 · **Merged PRs**: 930 · **Open PRs**: 17 · **Closed issues**: 2152 · **Open issues**: 97 · **Commits**: 8030
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 36 | 8 | 7 | 6 | 182 |
-| last60d | 2026-08-30 | 2 | 70 | 10 | 20 | 7 | 351 |
-| 90d | 2026-07-31 | 3 | 111 | 10 | 34 | 10 | 443 |
-| last180d | 2026-05-02 | 4 | 127 | 12 | 57 | 15 | 647 |
-| 360d | 2025-11-03 | 10 | 174 | 14 | 131 | 25 | 1032 |
-| last720d | 2024-11-08 | 18 | 227 | 16 | 285 | 50 | 2066 |
+| 30d | 2026-09-30 | 1 | 35 | 8 | 7 | 6 | 185 |
+| last60d | 2026-08-31 | 2 | 71 | 10 | 20 | 7 | 354 |
+| 90d | 2026-08-01 | 3 | 112 | 10 | 34 | 10 | 446 |
+| last180d | 2026-05-03 | 4 | 128 | 12 | 56 | 15 | 650 |
+| 360d | 2025-11-04 | 10 | 175 | 14 | 130 | 25 | 1035 |
+| last720d | 2024-11-09 | 18 | 227 | 16 | 284 | 50 | 2053 |
 
 ## Distribution status
 
@@ -76,7 +76,7 @@ Reported by **129** distros on [repology.org](https://repology.org/project/glanc
 | Ubuntu 26.04 LTS | `4.3.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `3.4.0.3` | ⚠️ outdated |
 | Arch | `4.5.8` | ✅ latest |
-| Homebrew | `4.5.8` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `4.5.7` | ⚠️ outdated |
 | Nix unstable | `4.5.7` | ⚠️ outdated |
 | Void | `4.5.6` | ⚠️ outdated |
@@ -92,4 +92,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:52:29Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:54:52Z._
