@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.5.8"
   latestRelease: "v4.5.8"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T05:54:29Z
+  collectedAt: 2026-10-31T05:45:33Z
 timeline:
   created: 2011-12-04
   lastCommit: 2026-10-29
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-10-11
   lastPrerelease: 
 popularity:
-  star: 33874
+  star: 33880
   watcher: 491
-  fork: 1838
+  fork: 1839
   release: 63
   contributor: 249
-  pullRequest: 1260
-  issue: 2249
+  pullRequest: 1261
+  issue: 2250
 language:
   Python: 3885395
   Vue: 230706
@@ -36,63 +36,63 @@ language:
 totalBytes: 4401777
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 1
     mergedPR: 35
-    openPR: 8
+    openPR: 9
     closedIssue: 7
-    openIssue: 6
+    openIssue: 7
     commit: 185
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 2
     mergedPR: 71
-    openPR: 10
+    openPR: 11
     closedIssue: 20
-    openIssue: 7
+    openIssue: 8
     commit: 354
   last90d:
-    since: 2026-08-01
-    release: 3
-    mergedPR: 112
-    openPR: 10
+    since: 2026-08-02
+    release: 2
+    mergedPR: 111
+    openPR: 11
     closedIssue: 34
-    openIssue: 10
+    openIssue: 11
     commit: 446
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 4
     mergedPR: 128
-    openPR: 12
+    openPR: 13
     closedIssue: 56
-    openIssue: 15
+    openIssue: 16
     commit: 650
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 10
     mergedPR: 175
-    openPR: 14
-    closedIssue: 130
-    openIssue: 25
+    openPR: 15
+    closedIssue: 129
+    openIssue: 26
     commit: 1035
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 18
     mergedPR: 227
-    openPR: 16
-    closedIssue: 284
-    openIssue: 50
-    commit: 2053
+    openPR: 17
+    closedIssue: 283
+    openIssue: 51
+    commit: 2036
 total:
   release: 63
   mergedPR: 930
-  openPR: 17
+  openPR: 18
   closedIssue: 2152
-  openIssue: 97
+  openIssue: 98
   commit: 8030
 ---
 path: /home/runner/.x-repo/github.com/nicolargo/glances
-collectedAt: 2026-10-30T05:54:42Z
+collectedAt: 2026-10-31T05:45:39Z
 loc:
   Python:
     code: 71492
