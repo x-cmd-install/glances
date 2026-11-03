@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,890 · **Forks**: 1,841 · **Open issues**: 2,250 · **Contributors**: 250
+- **Stars**: 33,893 · **Forks**: 1,842 · **Open issues**: 2,250 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 932 · **Open PRs**: 18 · **Closed issues**: 2153 · **Open issues**: 97 · **Commits**: 8045
+- **Releases**: 63 · **Merged PRs**: 932 · **Open PRs**: 19 · **Closed issues**: 2154 · **Open issues**: 96 · **Commits**: 8045
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 37 | 9 | 8 | 6 | 120 |
-| last60d | 2026-09-03 | 2 | 73 | 11 | 20 | 7 | 342 |
-| 90d | 2026-08-04 | 2 | 111 | 11 | 33 | 9 | 424 |
-| last180d | 2026-05-06 | 4 | 129 | 13 | 56 | 14 | 646 |
-| 360d | 2025-11-07 | 9 | 177 | 15 | 129 | 25 | 1021 |
-| last720d | 2024-11-12 | 18 | 227 | 17 | 282 | 49 | 2034 |
+| 30d | 2026-10-04 | 1 | 36 | 10 | 9 | 5 | 120 |
+| last60d | 2026-09-04 | 2 | 73 | 12 | 21 | 6 | 342 |
+| 90d | 2026-08-05 | 2 | 107 | 12 | 31 | 8 | 424 |
+| last180d | 2026-05-07 | 4 | 129 | 14 | 56 | 13 | 646 |
+| 360d | 2025-11-08 | 9 | 177 | 16 | 130 | 24 | 1021 |
+| last720d | 2024-11-13 | 18 | 227 | 18 | 283 | 48 | 2034 |
 
 ## Distribution status
 
-Reported by **129** distros on [repology.org](https://repology.org/project/glances). **14** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
+Reported by **129** distros on [repology.org](https://repology.org/project/glances). **15** are ✅ on the latest upstream release, **86** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:10:03Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:54:29Z._
