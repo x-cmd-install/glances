@@ -47,7 +47,7 @@ x install glances
 
 ## 流行度
 
-- **Star**: 33,926 · **Fork**: 1,840 · **开放 issue**: 2,252 · **贡献者**: 252
+- **Star**: 33,934 · **Fork**: 1,841 · **开放 issue**: 2,252 · **贡献者**: 252
 
 ## 累计统计
 
@@ -57,12 +57,31 @@ x install glances
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 32 | 9 | 9 | 3 | 93 |
-| last60d | 2026-09-11 | 3 | 66 | 11 | 23 | 5 | 322 |
-| 90d | 2026-08-12 | 3 | 110 | 11 | 30 | 6 | 430 |
-| last180d | 2026-05-14 | 5 | 135 | 13 | 57 | 12 | 577 |
-| 360d | 2025-11-15 | 10 | 183 | 15 | 128 | 23 | 1019 |
-| last720d | 2024-11-20 | 19 | 232 | 17 | 278 | 46 | 2030 |
+| 30d | 2026-10-12 | 1 | 31 | 9 | 9 | 3 | 93 |
+| last60d | 2026-09-12 | 3 | 64 | 11 | 23 | 5 | 322 |
+| 90d | 2026-08-13 | 3 | 109 | 11 | 28 | 6 | 430 |
+| last180d | 2026-05-15 | 5 | 134 | 13 | 57 | 12 | 577 |
+| 360d | 2025-11-16 | 10 | 183 | 15 | 128 | 23 | 1019 |
+| last720d | 2024-11-21 | 19 | 232 | 17 | 277 | 46 | 2025 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/glances) 上共有 **131** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**95** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `4.5.8` | ⚠️ outdated |
+| Debian 14 | `4.5.8` | ⚠️ outdated |
+| Debian 13 | `4.3.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `4.3.3` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.4.0.3` | ⚠️ outdated |
+| Arch | `4.5.9` | ✅ latest |
+| Homebrew | `4.5.9` | ✅ latest |
+| Fedora rawhide | `4.5.7` | ⚠️ outdated |
+| Nix unstable | `4.5.7` | ⚠️ outdated |
+| Void | `4.5.6` | ⚠️ outdated |
+| Alpine edge | `4.5.7` | ⚠️ outdated |
+| openSUSE Tumbleweed | `4.5.6` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -73,4 +92,4 @@ glances 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:26:04Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T06:22:19Z._
