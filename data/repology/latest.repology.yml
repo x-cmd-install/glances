@@ -1,3 +1,51 @@
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: glances
+  binnames:
+    - glances
+    - glances-doc
+  visiblename: glances
+  version: 4.5.8
+  origversion: 4.5.8+dfsg-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+    - sbadia@debian.org
+  categories:
+    - misc
+- repo: epel_8
+  srcname: glances
+  visiblename: glances
+  version: 3.3.1
+  origversion: 3.3.1-2.el8
+  status: outdated
+  summary: A cross-platform system monitoring tool
+  licenses:
+    - LGPL-3.0-only AND MIT
+  categories:
+    - Unspecified
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: glances
+  binnames:
+    - glances
+    - glances-doc
+  visiblename: glances
+  version: 4.5.8
+  origversion: 4.5.8+dfsg-1
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+    - sbadia@debian.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: glances
+  visiblename: glances
+  version: 4.5.9
+  origversion: null
+  status: newest
+  summary: Alternative to top/htop
 - repo: alpine_3_17
   subrepo: community
   srcname: glances
@@ -422,21 +470,6 @@
     - sbadia@debian.org
   categories:
     - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: glances
-  binnames:
-    - glances
-    - glances-doc
-  visiblename: glances
-  version: 4.5.8
-  origversion: 4.5.8+dfsg-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-    - sbadia@debian.org
-  categories:
-    - misc
 - repo: deepin_25
   subrepo: community
   srcname: glances
@@ -452,32 +485,13 @@
     - sbadia@debian.org
   categories:
     - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: glances
-  binnames:
-    - glances
-    - glances-doc
-  visiblename: glances
-  version: 4.5.8
-  origversion: 4.5.8+dfsg-1
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-    - sbadia@debian.org
-  categories:
-    - misc
-- repo: epel_8
+- repo: homebrew
   srcname: glances
   visiblename: glances
-  version: 3.3.1
-  origversion: 3.3.1-2.el8
-  status: outdated
-  summary: A cross-platform system monitoring tool
-  licenses:
-    - LGPL-3.0-only AND MIT
-  categories:
-    - Unspecified
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Alternative to top/htop
 - repo: epel_9
   srcname: glances
   binnames:
@@ -528,31 +542,6 @@
     - fallback-mnt-exherbo@repology
   categories:
     - sys-process
-- repo: nix_stable_25_11
-  srcname: glances
-  visiblename: glances
-  version: 4.3.3
-  origversion: null
-  status: outdated
-  summary: Cross-platform curses-based monitoring tool
-  maintainers:
-    - koral@mailoo.org
-  licenses:
-    - LGPL-3.0-only
-- repo: fedora_39
-  subrepo: updates
-  srcname: glances
-  binnames:
-    - glances
-  visiblename: glances
-  version: 4.0.5
-  origversion: 4.0.5-2.fc39
-  status: outdated
-  summary: A cross-platform system monitoring tool
-  licenses:
-    - LGPL-3.0-only AND MIT
-  categories:
-    - Unspecified
 - repo: fedora_39
   subrepo: release
   srcname: glances
@@ -567,14 +556,14 @@
     - LGPL-3.0-only AND MIT
   categories:
     - Unspecified
-- repo: fedora_40
+- repo: fedora_39
   subrepo: updates
   srcname: glances
   binnames:
     - glances
   visiblename: glances
   version: 4.0.5
-  origversion: 4.0.5-2.fc40
+  origversion: 4.0.5-2.fc39
   status: outdated
   summary: A cross-platform system monitoring tool
   licenses:
@@ -590,6 +579,20 @@
   version: 3.4.0
   origversion: 3.4.0-5.fc40
   status: legacy
+  summary: A cross-platform system monitoring tool
+  licenses:
+    - LGPL-3.0-only AND MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: glances
+  binnames:
+    - glances
+  visiblename: glances
+  version: 4.0.5
+  origversion: 4.0.5-2.fc40
+  status: outdated
   summary: A cross-platform system monitoring tool
   licenses:
     - LGPL-3.0-only AND MIT
@@ -765,20 +768,6 @@
   origversion: null
   status: outdated
   summary: Cross-platform curses-based monitoring tool
-- repo: homebrew
-  srcname: glances
-  visiblename: glances
-  version: 4.5.9
-  origversion: null
-  status: newest
-  summary: Alternative to top/htop
-- repo: homebrew
-  srcname: glances
-  visiblename: glances
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Alternative to top/htop
 - repo: kali_rolling
   subrepo: main
   srcname: glances
@@ -833,18 +822,6 @@
     - LGPL-3
   categories:
     - sys-process
-- repo: openbsd
-  srcname: sysutils/glances
-  binname: glances
-  visiblename: sysutils/glances
-  version: 4.5.7
-  origversion: 4.5.7v0
-  status: outdated
-  summary: cross-platform curses-based monitoring tool
-  maintainers:
-    - foxy@free.fr
-  categories:
-    - sysutils
 - repo: liguros_develop
   srcname: sys-process/glances
   visiblename: sys-process/glances
@@ -1024,6 +1001,17 @@
     - koral@mailoo.org
   licenses:
     - LGPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: glances
+  visiblename: glances
+  version: 4.3.3
+  origversion: null
+  status: outdated
+  summary: Cross-platform curses-based monitoring tool
+  maintainers:
+    - koral@mailoo.org
+  licenses:
+    - LGPL-3.0-only
 - repo: nix_stable_26_05
   srcname: glances
   visiblename: glances
@@ -1048,6 +1036,18 @@
     - prinn.dev@pm.me
   licenses:
     - LGPL-3.0-only
+- repo: openbsd
+  srcname: sysutils/glances
+  binname: glances
+  visiblename: sysutils/glances
+  version: 4.5.7
+  origversion: 4.5.7v0
+  status: outdated
+  summary: cross-platform curses-based monitoring tool
+  maintainers:
+    - foxy@free.fr
+  categories:
+    - sysutils
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: python-Glances
@@ -1076,7 +1076,7 @@
   licenses:
     - LGPL-3.0-or-later
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: glances
   binnames:
     - glances
@@ -1091,7 +1091,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: glances
   binnames:
     - glances
@@ -1399,7 +1399,7 @@
   srcname: com.github.nicolargo.Glances
   binname: com.github.nicolargo.Glances
   visiblename: Glances
-  version: 2.11.1
+  version: 2.7.1
   origversion: null
   status: legacy
   licenses:
@@ -1407,33 +1407,65 @@
   categories:
     - Tools
   vulnerable: true
-- repo: deepin_unstable
-  subrepo: main
-  srcname: glances
-  binnames:
-    - glances
-    - glances-doc
-  visiblename: glances
-  version: 3.1.0
-  origversion: 3.1.0-1+deb10u1+rebuild
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-    - sbadia@debian.org
-  categories:
-    - utils
-  vulnerable: true
-- repo: epel_6
-  srcname: glances
-  visiblename: glances
-  version: 1.7.4
-  origversion: 1.7.4-1.el6
-  status: outdated
-  summary: CLI curses based monitoring tool
+- repo: npackd_stable
+  srcname: com.github.nicolargo.Glances
+  binname: com.github.nicolargo.Glances
+  visiblename: Glances
+  version: "2.8"
+  origversion: null
+  status: legacy
   licenses:
-    - GPLv3
+    - LGPLv3
   categories:
-    - Applications/System
+    - Tools
+  vulnerable: true
+- repo: npackd_stable
+  srcname: com.github.nicolargo.Glances
+  binname: com.github.nicolargo.Glances
+  visiblename: Glances
+  version: 2.9.1
+  origversion: null
+  status: legacy
+  licenses:
+    - LGPLv3
+  categories:
+    - Tools
+  vulnerable: true
+- repo: npackd_stable
+  srcname: com.github.nicolargo.Glances
+  binname: com.github.nicolargo.Glances
+  visiblename: Glances
+  version: "2.10"
+  origversion: null
+  status: legacy
+  licenses:
+    - LGPLv3
+  categories:
+    - Tools
+  vulnerable: true
+- repo: npackd_stable
+  srcname: com.github.nicolargo.Glances
+  binname: com.github.nicolargo.Glances
+  visiblename: Glances
+  version: "2.11"
+  origversion: null
+  status: legacy
+  licenses:
+    - LGPLv3
+  categories:
+    - Tools
+  vulnerable: true
+- repo: npackd_stable
+  srcname: com.github.nicolargo.Glances
+  binname: com.github.nicolargo.Glances
+  visiblename: Glances
+  version: 2.11.1
+  origversion: null
+  status: legacy
+  licenses:
+    - LGPLv3
+  categories:
+    - Tools
   vulnerable: true
 - repo: epel_7
   srcname: glances
@@ -1455,6 +1487,34 @@
   status: outdated
   categories:
     - sys-process
+  vulnerable: true
+- repo: deepin_unstable
+  subrepo: main
+  srcname: glances
+  binnames:
+    - glances
+    - glances-doc
+  visiblename: glances
+  version: 3.1.0
+  origversion: 3.1.0-1+deb10u1+rebuild
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+    - sbadia@debian.org
+  categories:
+    - utils
+  vulnerable: true
+- repo: npackd_stable
+  srcname: com.github.nicolargo.Glances
+  binname: com.github.nicolargo.Glances
+  visiblename: Glances
+  version: 2.6.2
+  origversion: null
+  status: legacy
+  licenses:
+    - LGPLv3
+  categories:
+    - Tools
   vulnerable: true
 - repo: npackd_stable
   srcname: com.github.nicolargo.Glances
@@ -1521,78 +1581,6 @@
   binname: com.github.nicolargo.Glances
   visiblename: Glances
   version: 2.6.1
-  origversion: null
-  status: legacy
-  licenses:
-    - LGPLv3
-  categories:
-    - Tools
-  vulnerable: true
-- repo: npackd_stable
-  srcname: com.github.nicolargo.Glances
-  binname: com.github.nicolargo.Glances
-  visiblename: Glances
-  version: 2.6.2
-  origversion: null
-  status: legacy
-  licenses:
-    - LGPLv3
-  categories:
-    - Tools
-  vulnerable: true
-- repo: npackd_stable
-  srcname: com.github.nicolargo.Glances
-  binname: com.github.nicolargo.Glances
-  visiblename: Glances
-  version: 2.7.1
-  origversion: null
-  status: legacy
-  licenses:
-    - LGPLv3
-  categories:
-    - Tools
-  vulnerable: true
-- repo: npackd_stable
-  srcname: com.github.nicolargo.Glances
-  binname: com.github.nicolargo.Glances
-  visiblename: Glances
-  version: "2.8"
-  origversion: null
-  status: legacy
-  licenses:
-    - LGPLv3
-  categories:
-    - Tools
-  vulnerable: true
-- repo: npackd_stable
-  srcname: com.github.nicolargo.Glances
-  binname: com.github.nicolargo.Glances
-  visiblename: Glances
-  version: 2.9.1
-  origversion: null
-  status: legacy
-  licenses:
-    - LGPLv3
-  categories:
-    - Tools
-  vulnerable: true
-- repo: npackd_stable
-  srcname: com.github.nicolargo.Glances
-  binname: com.github.nicolargo.Glances
-  visiblename: Glances
-  version: "2.10"
-  origversion: null
-  status: legacy
-  licenses:
-    - LGPLv3
-  categories:
-    - Tools
-  vulnerable: true
-- repo: npackd_stable
-  srcname: com.github.nicolargo.Glances
-  binname: com.github.nicolargo.Glances
-  visiblename: Glances
-  version: "2.11"
   origversion: null
   status: legacy
   licenses:
