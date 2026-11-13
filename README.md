@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,936 · **Forks**: 1,841 · **Open issues**: 2,252 · **Contributors**: 252
+- **Stars**: 33,944 · **Forks**: 1,841 · **Open issues**: 2,252 · **Contributors**: 252
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 31 | 8 | 9 | 3 | 94 |
-| last60d | 2026-09-13 | 3 | 63 | 10 | 22 | 5 | 323 |
-| 90d | 2026-08-14 | 3 | 109 | 10 | 28 | 6 | 431 |
-| last180d | 2026-05-16 | 5 | 133 | 12 | 57 | 12 | 578 |
-| 360d | 2025-11-17 | 10 | 183 | 14 | 127 | 23 | 1020 |
-| last720d | 2024-11-22 | 19 | 231 | 16 | 276 | 46 | 2024 |
+| 30d | 2026-10-14 | 1 | 31 | 8 | 7 | 3 | 94 |
+| last60d | 2026-09-14 | 3 | 61 | 10 | 22 | 5 | 323 |
+| 90d | 2026-08-15 | 3 | 107 | 10 | 28 | 6 | 431 |
+| last180d | 2026-05-17 | 5 | 133 | 12 | 57 | 12 | 578 |
+| 360d | 2025-11-18 | 10 | 183 | 14 | 127 | 23 | 1020 |
+| last720d | 2024-11-23 | 19 | 231 | 16 | 275 | 45 | 2024 |
 
 ## Distribution status
 
-Reported by **130** distros on [repology.org](https://repology.org/project/glances). **8** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
+Reported by **130** distros on [repology.org](https://repology.org/project/glances). **9** are ✅ on the latest upstream release, **93** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:25:22Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:52:32Z._
