@@ -43,8 +43,8 @@
   "body": "Cyber:\r\n\r\n- Replace python-jose (with CVE) by PyJWT\r\n- Update all dependencies\r\n\r\nThis version will be the last one for Glances 4.x.\r\n\r\nYou can test Glances 5.0.0 beta with:\r\n\r\n```\r\npython3 -m venv ~/.venv-glances5\r\nsource ~/.venv-glances5/bin/activate\r\npip install --pre --index-url https://test.pypi.org/simple/ \\\r\n    --extra-index-url https://pypi.org/simple/ 'glances[web]>=5.0.0b1'\r\nglances --version\r\n```\r\n\r\nOr run the nicolargo/glances:dev Docker image (built from this branch).",
   "reactions": {
     "url": "https://api.github.com/repos/nicolargo/glances/releases/437714478/reactions",
-    "total_count": 3,
-    "+1": 3,
+    "total_count": 4,
+    "+1": 4,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
