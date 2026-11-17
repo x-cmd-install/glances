@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,962 · **Forks**: 1,840 · **Open issues**: 2,252 · **Contributors**: 253
+- **Stars**: 33,970 · **Forks**: 1,840 · **Open issues**: 2,252 · **Contributors**: 253
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 29 | 7 | 8 | 0 | 93 |
-| last60d | 2026-09-17 | 3 | 66 | 9 | 25 | 2 | 319 |
-| 90d | 2026-08-18 | 3 | 112 | 9 | 29 | 3 | 444 |
-| last180d | 2026-05-20 | 5 | 138 | 11 | 59 | 9 | 572 |
-| 360d | 2025-11-21 | 10 | 188 | 13 | 129 | 19 | 1029 |
-| last720d | 2024-11-26 | 19 | 236 | 15 | 277 | 42 | 2048 |
+| 30d | 2026-10-18 | 1 | 29 | 7 | 8 | 0 | 93 |
+| last60d | 2026-09-18 | 3 | 66 | 9 | 25 | 2 | 319 |
+| 90d | 2026-08-19 | 3 | 111 | 9 | 29 | 3 | 444 |
+| last180d | 2026-05-21 | 5 | 137 | 11 | 59 | 9 | 572 |
+| 360d | 2025-11-22 | 10 | 188 | 13 | 127 | 19 | 1029 |
+| last720d | 2024-11-27 | 19 | 236 | 15 | 276 | 42 | 2048 |
 
 ## Distribution status
 
-Reported by **130** distros on [repology.org](https://repology.org/project/glances). **11** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
+Reported by **132** distros on [repology.org](https://repology.org/project/glances). **12** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for glances lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:38:49Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:04:13Z._
