@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.5.9"
   latestRelease: "v4.5.9"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:07:30Z
+  collectedAt: 2026-11-28T07:58:03Z
 timeline:
   created: 2011-12-04
   lastCommit: 2026-11-27
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-11-07
   lastPrerelease: 
 popularity:
-  star: 34016
+  star: 34014
   watcher: 490
-  fork: 1848
+  fork: 1849
   release: 64
   contributor: 257
-  pullRequest: 1307
+  pullRequest: 1308
   issue: 2253
 language:
   Python: 4120903
@@ -36,63 +36,63 @@ language:
 totalBytes: 4659256
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 30
-    openPR: 7
+    mergedPR: 29
+    openPR: 8
     closedIssue: 2
     openIssue: 2
     commit: 79
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
-    mergedPR: 68
-    openPR: 11
+    mergedPR: 67
+    openPR: 12
     closedIssue: 14
     openIssue: 3
     commit: 274
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
-    mergedPR: 102
-    openPR: 13
-    closedIssue: 28
+    mergedPR: 101
+    openPR: 14
+    closedIssue: 27
     openIssue: 4
     commit: 435
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 5
-    mergedPR: 154
-    openPR: 15
-    closedIssue: 58
+    mergedPR: 153
+    openPR: 16
+    closedIssue: 57
     openIssue: 10
     commit: 599
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 10
     mergedPR: 204
-    openPR: 17
+    openPR: 18
     closedIssue: 123
     openIssue: 19
     commit: 1063
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 19
-    mergedPR: 253
-    openPR: 18
-    closedIssue: 275
+    mergedPR: 252
+    openPR: 19
+    closedIssue: 273
     openIssue: 41
     commit: 2095
 total:
   release: 64
   mergedPR: 960
-  openPR: 20
+  openPR: 21
   closedIssue: 2162
   openIssue: 91
   commit: 8137
 ---
 path: /home/runner/.x-repo/github.com/nicolargo/glances
-collectedAt: 2026-11-27T09:07:43Z
+collectedAt: 2026-11-28T07:58:10Z
 loc:
   Python:
     code: 75689
